@@ -5,7 +5,7 @@ import classes from './Logo.module.css';
 
 const Logo = (props) => (
     <div className={classes.Logo}>
-        <img src={burgerLogo} alt="Burger-Builder" />
+        <img src={burgerLogo} alt="Burger-Builder" onClick={props.resetPage}/>
     </div>
 )
 

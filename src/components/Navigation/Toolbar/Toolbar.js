@@ -12,7 +12,7 @@ const toolbar = (props) => (
             <div></div>
         </div>
         <div className={classes.Logo}>
-            <Logo />
+            <Logo resetPage={props.resetPage}/>
         </div>
         <nav className={classes.DesktopOnly}>
             <NavigationItems />

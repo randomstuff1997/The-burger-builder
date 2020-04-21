@@ -7,3 +7,6 @@ In this project the user can choose ingredients of their burger and checkout. Th
 1. clone the repository
 2. run 'npm install'
 3. run 'npm start'  <-- this should open a browser, if it fails to do that then open a browser and head over to https://localhost/3000
+
+
+Git user - randomstuff1997
